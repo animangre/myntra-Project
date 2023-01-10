@@ -1,0 +1,43 @@
+#rfirst{
+    padding-left: 130px;
+    margin-left: 25%;
+    margin-top: 100px;
+    width: 500px;
+    height: 300px;
+    background-color: aquamarine;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+#text{
+    margin-left: 50px;
+    height: 20px;
+    width: 200px;
+    border-radius: 5px;
+    cursor: pointer;
+   
+}
+#email{
+margin-left: 50px;
+height: 20px;
+width: 200px;
+border-radius: 5px;
+cursor: pointer;
+}
+#password{
+margin-left: 50px;
+height: 20px;
+width: 200px;
+border-radius: 5px;
+cursor: pointer;
+}
+button{
+    margin-left: 120px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+background-color: blueviolet;
+}
+.forbutton{
+    width: 65px;
+}
